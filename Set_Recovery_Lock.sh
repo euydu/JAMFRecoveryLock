@@ -1,8 +1,6 @@
 #!/bin/bash
 # Created by Emre Uydu - System Engineer
 # emreuydu@gmail.com
-# You can use this script to determine geo location of target device(s)
-# The script will apply force logout if unapproved location detected. 
 # Contact to me for more info
 #########################################################################
 #Parameters
