@@ -10,7 +10,9 @@ You only need to enter your API username and password in the parameter field.
 Fill the parameters: 
 
 APIUsername="YOUR API USERNAME"
+
 APIuserpassword="YOUR API PASSWORD"
+
 JAMFServer="https://YOURJAMF.JAMFCLOUD.COM" 
 
 Do not change the codes after line 13.
